@@ -1,0 +1,3 @@
+dist/
+django_custom_fieldsets.egg-info/
+*.pyc
